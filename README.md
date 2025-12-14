@@ -5,8 +5,8 @@ Automatically unfollows users on Instagram who don't follow you back.
 ## Usage
 
 ```bash
-git clone <your-repo-url>
-cd instagrapi-test
+git clone https://github.com/aditya-arolkar-swe/instagram-unfollow.git
+cd instagram-unfollow
 poetry run python3 main.py
 ```
 
