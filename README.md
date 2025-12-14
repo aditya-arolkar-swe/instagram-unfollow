@@ -1,6 +1,10 @@
 # Instagram Unfollow Script
 
-Automatically unfollows users on Instagram who don't follow you back.
+Automatically unfollows users on Instagram who don't follow you back. 
+
+## Philosophy
+
+You are no one's fanboy, and you shouldn't waste time on social media showing interest in the lives of those who don't reciprocate. However, if you have already made this mistake, unfollowing others can be a time consuming process. Let this script automate everything for you. 
 
 ## Usage
 
